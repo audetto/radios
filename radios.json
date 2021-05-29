@@ -1,0 +1,234 @@
+{
+    "BBC": [
+        {
+            "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+            "radio": "BBC World Service"
+        },
+        {
+            "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_london",
+            "radio": "BBC London"
+        },
+        {
+            "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+            "radio": "BBC Radio 3"
+        },
+        {
+            "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+            "radio": "BBC Radio 4"
+        },
+        {
+            "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live",
+            "radio": "BBC Radio 5 Live"
+        }
+    ],
+    "Classic FM": [
+        {
+            "url": "https://media-ssl.musicradio.com/ClassicFMMP3",
+            "radio": "Classic FM"
+        }
+    ],
+    "LBC": [
+        {
+            "url": "http://media-sov.musicradio.com:80/LBCLondon",
+            "radio": "LBC London"
+        }
+    ],
+    "NPR": [
+        {
+            "url": "https://npr-ice.streamguys1.com/live.mp3",
+            "radio": "NPR"
+        }
+    ],
+    "RAI": [
+        {
+            "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834",
+            "radio": "Rai Radio 1 m3u8"
+        },
+        {
+            "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063",
+            "radio": "Rai Radio 2 m3u8"
+        },
+        {
+            "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832",
+            "radio": "Rai Radio 3 Classica m3u8"
+        },
+        {
+            "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841",
+            "radio": "Rai Radio 3 m3u8"
+        },
+        {
+            "url": "http://icestreaming.rai.it/5.mp3",
+            "radio": "Rai Radio Classica"
+        },
+        {
+            "url": "http://icestreaming.rai.it/4.mp3",
+            "radio": "RAI Radio Tutta Italiana"
+        },
+        {
+            "url": "http://icestreaming.rai.it/1.mp3",
+            "radio": "Rai Radio 1"
+        },
+        {
+            "url": "http://icestreaming.rai.it/2.mp3",
+            "radio": "Rai Radio 2"
+        },
+        {
+            "url": "http://icestreaming.rai.it/3.mp3",
+            "radio": "Rai Radio 3"
+        }
+    ],
+    "Popolare": [
+        {
+            "url": "https://livex.radiopopolare.it/radiopop2",
+            "radio": "Radio Popolare"
+        }
+    ],
+    "Radio Italia": [
+        {
+            "url": "https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/index_1_a-p.m3u8",
+            "radio": "Radio Italia"
+        }
+    ],
+    "RTL 102.5": [
+        {
+            "url": "https://streamingv2.shoutcast.com/rtl-1025",
+            "radio": "RTL 102.5"
+        }
+    ],
+    "Radio 24": [
+        {
+            "url": "https://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8",
+            "radio": "Radio 24"
+        }
+    ],
+    "Radio France": [
+        {
+            "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+            "radio": "France Info"
+        },
+        {
+            "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
+            "radio": "France Inter"
+        },
+        {
+            "url": "http://direct.franceculture.fr/live/franceculture-midfi.mp3",
+            "radio": "France Culture"
+        },
+        {
+            "url": "http://icecast.radiofrance.fr/francemusique-midfi.mp3",
+            "radio": "France Musique"
+        }
+    ],
+    "RFI": [
+        {
+            "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+            "radio": "RFI Monde"
+        },
+        {
+            "url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3",
+            "radio": "RFI Afrique"
+        }
+    ],
+    "RMC": [
+        {
+            "url": "http://rmc.bfmtv.com/rmcinfo-mp3",
+            "radio": "RMC"
+        }
+    ],
+    "Europe 1": [
+        {
+            "url": "http://stream.europe1.fr/europe1.mp3?aw_0_1st.playerid=lgrdrnwsTuneIn",
+            "radio": "Europe 1"
+        }
+    ],
+    "RTL": [
+        {
+            "url": "http://icecast.rtl.fr/rtl-1-44-128?listen=wEbAwQMBgULAAQFAg8PBAEDBQ",
+            "radio": "RTL"
+        }
+    ],
+    "RTBF": [
+        {
+            "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+            "radio": "La 1ere"
+        }
+    ],
+    "RTVE": [
+        {
+            "url": "https://rne.rtveradio.cires21.com/rne_hc.mp3",
+            "radio": "Radio Nacional Espana"
+        }
+    ],
+    "Radio Vaticana": [
+        {
+            "url": "http://rvl.vaticanmedia.va/channel1.mp3",
+            "radio": "RVL - Channel 1"
+        },
+        {
+            "url": "http://rvl.vaticanmedia.va/channel5.mp3",
+            "radio": "RVL - Channel 5"
+        }
+    ],
+    "RELRFE": [
+        {
+            "url": "https://stream.radiojar.com/zststmqc75quv",
+            "radio": "Radio Europa Libera"
+        }
+    ],
+    "SRR": [
+        {
+            "url": "http://89.238.227.6:8004/",
+            "radio": "Radio Romania Actualitati"
+        },
+        {
+            "url": "http://89.238.227.6:8044/",
+            "radio": "Antena Satelor"
+        }
+    ],
+    "ERT": [
+        {
+            "url": "https://radiostreaming.ert.gr/ert-proto",
+            "radio": "ERT Proto"
+        },
+        {
+            "url": "https://radiostreaming.ert.gr/ert-deftero",
+            "radio": "ERT Detero"
+        },
+        {
+            "url": "https://radiostreaming.ert.gr/ert-trito",
+            "radio": "ERT Trito"
+        }
+    ],
+    "RTP": [
+        {
+            "url": "http://radiocast.rtp.pt/antena180a.mp3",
+            "radio": "Antena 1"
+        }
+    ],
+    "ECB": [
+        {
+            "url": "https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8",
+            "radio": "Radio Nacional de Brasilia"
+        },
+        {
+            "url": "https://radionacionalrio-stream.ebc.com.br/index.m3u8",
+            "radio": "Radio Nacional do Rio de Janeiro"
+        }
+    ],
+    "VGTRK": [
+        {
+            "url": "https://audio.vgtrk.com/listen?id=2497744",
+            "radio": "Radio Vesti"
+        }
+    ],
+    "MNB": [
+        {
+            "url": "http://103.14.38.108:8000/radio2",
+            "radio": "MNB Radio 2"
+        },
+        {
+            "url": "http://103.14.38.108:8000/radio1",
+            "radio": "MNB Radio 1"
+        }
+    ]
+}

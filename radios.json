@@ -33,6 +33,12 @@
             "radio": "LBC London"
         }
     ],
+    "Times Radio": [
+        {
+            "url": "https://timesradio.wireless.radio/stream",
+            "radio": "Times Radio"
+        }
+    ],
     "NPR": [
         {
             "url": "https://npr-ice.streamguys1.com/live.mp3",
@@ -219,6 +225,20 @@
         {
             "url": "https://audio.vgtrk.com/listen?id=2497744",
             "radio": "Radio Vesti"
+        }
+    ],
+    "Sputnik": [
+        {
+            "url": "http://audio2.video.ria.ru/voiceeng",
+            "radio": "Sputnik English"
+        },
+        {
+            "url": "http://audio2.video.ria.ru/voiceusa",
+            "radio": "Sputnik USA"
+        },
+        {
+            "url": "http://audio2.video.ria.ru/voicespa",
+            "radio": "Sputnik Spanish"
         }
     ],
     "MNB": [

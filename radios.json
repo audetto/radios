@@ -161,7 +161,7 @@
     ],
     "RTVE": [
         {
-            "url": "https://rne.rtveradio.cires21.com/rne_hc.mp3",
+            "url": "https://rtvelivestreamv3.akamaized.net/rne_r1_main.m3u8",
             "radio": "Radio Nacional Espana"
         }
     ],

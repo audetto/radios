@@ -28,4 +28,5 @@ def main():
         print(xmlstr, file=f)
 
 
-main()
+if __name__ == '__main__':
+    main()

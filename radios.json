@@ -159,10 +159,16 @@
             "radio": "La 1ere"
         }
     ],
-    "RTVE": [
+    "RNE": [
         {
-            "url": "https://rtvelivestreamv3.akamaized.net/rne_r1_main.m3u8",
-            "radio": "Radio Nacional Espana"
+            "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8",
+            "radio": "Radio Nacional de Espana"
+        }
+    ],
+    "RE": [
+        {
+            "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_re_main.m3u8",
+            "radio": "Radio Exterior de Espana"
         }
     ],
     "Radio Vaticana": [

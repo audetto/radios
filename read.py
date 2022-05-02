@@ -36,4 +36,5 @@ def main():
         json.dump(radios, f, indent=4)
 
 
-main()
+if __name__ == '__main__':
+    main()

@@ -1,9 +1,10 @@
 import json
+from typing import List, Dict
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 
-def xspf(data):
+def xspf(data: Dict[str, List[Dict[str, str]]]) -> str:
     playlist = ET.Element('playlist', xmlns='http://xspf.org/ns/0/', version='1')
     ET.SubElement(playlist, 'title').text = 'Radios'
     tracklist = ET.SubElement(playlist, 'trackList')

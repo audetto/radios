@@ -11,11 +11,12 @@ def xspf(data: Dict[str, List[Dict[str, str]]]) -> str:
 
     for broadcaster, stations in data.items():
         for station in stations:
-            track = ET.SubElement(tracklist, 'track')
-            ET.SubElement(track, 'creator').text = broadcaster
-            ET.SubElement(track, 'location').text = station['url']
-            ET.SubElement(track, 'title').text = station['radio']
-            ET.SubElement(track, 'album').text = station['radio']
+            if station.get("working"):
+                track = ET.SubElement(tracklist, 'track')
+                ET.SubElement(track, 'creator').text = broadcaster
+                ET.SubElement(track, 'location').text = station['url']
+                ET.SubElement(track, 'title').text = station['radio']
+                ET.SubElement(track, 'album').text = station['radio']
 
     xmlstr = minidom.parseString(ET.tostring(playlist)).toprettyxml(indent='    ')
     return xmlstr

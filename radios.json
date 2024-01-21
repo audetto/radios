@@ -2,7 +2,8 @@
     "BBC": [
         {
             "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-            "radio": "BBC World Service"
+            "radio": "BBC World Service",
+            "working": true
         },
         {
             "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_london",
@@ -24,25 +25,29 @@
     "Classic FM": [
         {
             "url": "https://media-ssl.musicradio.com/ClassicFMMP3",
-            "radio": "Classic FM"
+            "radio": "Classic FM",
+            "working": true
         }
     ],
     "LBC": [
         {
             "url": "http://media-sov.musicradio.com:80/LBCLondon",
-            "radio": "LBC London"
+            "radio": "LBC London",
+            "working": true
         }
     ],
     "Times Radio": [
         {
             "url": "https://timesradio.wireless.radio/stream",
-            "radio": "Times Radio"
+            "radio": "Times Radio",
+            "working": true
         }
     ],
     "NPR": [
         {
             "url": "https://npr-ice.streamguys1.com/live.mp3",
-            "radio": "NPR"
+            "radio": "NPR",
+            "working": true
         }
     ],
     "RAI": [
@@ -64,35 +69,42 @@
         },
         {
             "url": "http://icestreaming.rai.it/5.mp3",
-            "radio": "Rai Radio Classica"
+            "radio": "Rai Radio Classica",
+            "working": true
         },
         {
             "url": "http://icestreaming.rai.it/4.mp3",
-            "radio": "RAI Radio Tutta Italiana"
+            "radio": "RAI Radio Tutta Italiana",
+            "working": true
         },
         {
             "url": "http://icestreaming.rai.it/1.mp3",
-            "radio": "Rai Radio 1"
+            "radio": "Rai Radio 1",
+            "working": true
         },
         {
             "url": "http://icestreaming.rai.it/2.mp3",
-            "radio": "Rai Radio 2"
+            "radio": "Rai Radio 2",
+            "working": true
         },
         {
             "url": "http://icestreaming.rai.it/3.mp3",
-            "radio": "Rai Radio 3"
+            "radio": "Rai Radio 3",
+            "working": true
         }
     ],
     "Popolare": [
         {
             "url": "https://livex.radiopopolare.it/radiopop2",
-            "radio": "Radio Popolare"
+            "radio": "Radio Popolare",
+            "working": true
         }
     ],
     "Radio Italia": [
         {
-            "url": "https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/index_1_a-p.m3u8",
-            "radio": "Radio Italia"
+            "url": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8",
+            "radio": "Radio Italia",
+            "working": true
         }
     ],
     "RTL 102.5": [
@@ -110,79 +122,109 @@
     "Radio France": [
         {
             "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
-            "radio": "France Info"
+            "radio": "France Info",
+            "working": true
         },
         {
             "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
-            "radio": "France Inter"
+            "radio": "France Inter",
+            "working": true
         },
         {
             "url": "http://direct.franceculture.fr/live/franceculture-midfi.mp3",
-            "radio": "France Culture"
+            "radio": "France Culture",
+            "working": true
         },
         {
             "url": "http://icecast.radiofrance.fr/francemusique-midfi.mp3",
-            "radio": "France Musique"
+            "radio": "France Musique",
+            "working": true
         }
     ],
     "RFI": [
         {
             "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
-            "radio": "RFI Monde"
+            "radio": "RFI Monde",
+            "working": true
         },
         {
             "url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3",
-            "radio": "RFI Afrique"
+            "radio": "RFI Afrique",
+            "working": true
         }
     ],
     "RMC": [
         {
             "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
-            "radio": "RMC"
+            "radio": "RMC",
+            "working": true
         },
         {
             "url": "https://audio.bfmtv.com/eventradio.mp3",
-            "radio": "RMC-Event"
+            "radio": "RMC-Event",
+            "working": true
         }
     ],
     "Europe 1": [
         {
             "url": "http://stream.europe1.fr/europe1.mp3?aw_0_1st.playerid=lgrdrnwsTuneIn",
-            "radio": "Europe 1"
+            "radio": "Europe 1",
+            "working": true
         }
     ],
     "RTL": [
         {
             "url": "http://icecast.rtl.fr/rtl-1-44-128?listen=wEbAwQMBgULAAQFAg8PBAEDBQ",
-            "radio": "RTL"
+            "radio": "RTL",
+            "working": true
         }
     ],
     "RTBF": [
         {
-            "url": "https://radios.rtbf.be/laprem1ere-64.aac",
-            "radio": "La 1ere"
+            "url": "http://radio.rtbf.be/lapremiere/aac-128/fl",
+            "radio": "La 1ere",
+            "working": true
         }
     ],
     "RNE": [
         {
-            "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8",
-            "radio": "Radio Nacional de Espana"
+            "url": "https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8",
+            "radio": "Radio Nacional de Espana",
+            "working": true
         }
     ],
     "RE": [
         {
-            "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_re_main.m3u8",
-            "radio": "Radio Exterior de Espana"
+            "url": "https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8",
+            "radio": "Radio Exterior de Espana",
+            "working": true
         }
     ],
     "Radio Vaticana": [
         {
-            "url": "http://rvl.vaticanmedia.va/channel1.mp3",
-            "radio": "RVL - Channel 1"
+            "url": "https://radio.vaticannews.va/stream-it",
+            "radio": "RV - Italiano",
+            "working": true
         },
         {
-            "url": "http://rvl.vaticanmedia.va/channel5.mp3",
-            "radio": "RVL - Channel 5"
+            "url": "https://radio.vaticannews.va/stream-en",
+            "radio": "RV - English",
+            "working": true
+        },
+        {
+            "url": "https://radio.vaticannews.va/stream-fr",
+            "radio": "RV - Francais",
+            "working": true
+        },
+        {
+            "url": "https://radio.vaticannews.va/stream-es",
+            "radio": "RV - Espanol",
+            "working": true
+        },
+        {
+            "url": "https://radio.vaticannews.va/stream-ro",
+            "radio": "RV - Romanian",
+            "working": true
         }
     ],
     "RELRFE": [
@@ -194,31 +236,37 @@
     "SRR": [
         {
             "url": "http://89.238.227.6:8004/",
-            "radio": "Radio Romania Actualitati"
+            "radio": "Radio Romania Actualitati",
+            "working": true
         },
         {
             "url": "http://89.238.227.6:8044/",
-            "radio": "Antena Satelor"
+            "radio": "Antena Satelor",
+            "working": true
         }
     ],
     "ERT": [
         {
             "url": "https://radiostreaming.ert.gr/ert-proto",
-            "radio": "ERT Proto"
+            "radio": "ERT Proto",
+            "working": true
         },
         {
             "url": "https://radiostreaming.ert.gr/ert-deftero",
-            "radio": "ERT Detero"
+            "radio": "ERT Deftero",
+            "working": true
         },
         {
             "url": "https://radiostreaming.ert.gr/ert-trito",
-            "radio": "ERT Trito"
+            "radio": "ERT Trito",
+            "working": true
         }
     ],
     "RTP": [
         {
             "url": "http://radiocast.rtp.pt/antena180a.mp3",
-            "radio": "Antena 1"
+            "radio": "Antena 1",
+            "working": true
         }
     ],
     "ECB": [
